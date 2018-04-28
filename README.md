@@ -88,7 +88,8 @@ are not).
 ```
     cd Downloads
 ```	
-   Then, try again.
+
+Then, try again.
 
 5. Press enter. You will follow the text-only prompts. To move through
    the text, press the space key. Type yes and press enter to approve
