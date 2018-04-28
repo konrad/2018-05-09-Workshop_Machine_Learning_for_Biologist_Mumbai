@@ -7,12 +7,31 @@
   practical part the participants will learn how to apply the gained
   theoretical knowledge using Python and the scikit-learn library.
 
+## Topics
+
+- General instroduction
+- Feauture
+- Supervised Learning
+  - Linear Models 
+  - Suport Vector Machines
+  - k Nearest Neighbors
+  - Decision trees / Random forests / Boosting
+  - Naive Bayes Classifiers
+  - Neural Networks and Deep Learning
+- Unsupervised Learning
+  - Clustering
+  - Dimension reduction with PCA and t-SNE
+- Reinforcement Learning
+
 ## Audience
+
+## Reading recommendations
 
 ## Requirements
 
-- Some background in Python and Jupyter notebook
-- Anaconda installation (Python 3.6)
+You should have basic Python programming skills and know how to use
+Jupyter notebook. Furthermore you need to bring a laptop with the
+software installation described below.
 
 ## Installation instruction
 
@@ -22,7 +41,10 @@ packages individually can be a bit difficult, so we recommend
 [Anaconda](https://www.anaconda.com/distribution/), an all-in-one installer.
 
 Regardless of how you choose to install it, please make sure you
-install Python version 3.x (e.g., 3.6 is fine).
+install Python version 3.x (e.g., 3.6 is fine). Additionally you need
+an installation of [scikit-learn](http://scikit-learn.org/) and
+[matplotlib](https://matplotlib.org/) (the recommended Anaconda
+installation contains these libraries).
 
 We will teach Python using the [Jupyter
 notebook](https://jupyter.org/), a programming environment that runs
@@ -75,27 +97,6 @@ are not).
    (this makes the Anaconda distribution the default Python).
 
 6. Close the terminal window.
-
-
-## Topics
-
-- General instroduction
-- Feauture
-- Supervised Learning
-  - Linear Models 
-  - Suport Vector Machines
-  - k Nearest Neighbors
-  - Decision trees / Random forests / Boosting
-  - Naive Bayes Classifiers
-  - Neural Networks and Deep Learning
-- Unsupervised Learning
-  - Clustering
-  - Dimension reduction with PCA and t-SNE
-- Reinforcement Learning
-
-## Schedule
-
-## Reading recommendations
 
 ## Reuse of this content
 
