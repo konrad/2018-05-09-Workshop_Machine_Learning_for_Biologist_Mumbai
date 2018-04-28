@@ -80,13 +80,15 @@ are not).
 4. Type
 
 ```
-    bash Anaconda3-
+bash Anaconda3-
 ```
 
-    and then press tab. The name of the file you just downloaded should appear. If it does not, navigate to the folder where you downloaded the file, for example with:
+and then press tab. The name of the file you just downloaded should
+appear. If it does not, navigate to the folder where you downloaded
+the file, for example with:
 
 ```
-    cd Downloads
+cd Downloads
 ```	
 
 Then, try again.
