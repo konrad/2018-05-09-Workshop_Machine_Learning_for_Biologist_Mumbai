@@ -23,15 +23,15 @@
   - Dimension reduction with PCA and t-SNE
 - Reinforcement Learning
 
-## Audience
-
-## Reading recommendations
-
-## Requirements
+## Audience / Requirements
 
 You should have basic Python programming skills and know how to use
 Jupyter notebook. Furthermore you need to bring a laptop with the
 software installation described below.
+
+## Reading recommendations
+
+- TBA
 
 ## Installation instruction
 
